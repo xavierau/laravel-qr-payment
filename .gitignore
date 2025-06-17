@@ -1,0 +1,41 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Laravel specific
+.env
+.env.backup
+.env.testing
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage reports
+/coverage-report/
+/build/
+/clover.xml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package development
+/testbench.yaml
+/.phpunit.cache
+
+# Cache
+.phpunit.cache

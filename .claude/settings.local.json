@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "mcp__context7__resolve-library-id",
+      "Bash(mkdir:*)",
+      "Bash(composer install:*)",
+      "Bash(vendor/bin/phpunit:*)",
+      "mcp__zen__codereview",
+      "Bash(composer:*)",
+      "Bash(php:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
